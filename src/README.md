@@ -1,1 +1,17 @@
 
+### Project 1:Building elementary logic gates like And, Or, Not, Multiplexor,and More
+* [NOT Gate](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/Not.hdl)
+* [And Gate](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/And.hdl)
+* [Or Gate](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/Or.hdl)
+* [Xor Gate](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/Xor.hdl)
+* [Mux Gate](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/Mux.hdl)
+* [DMux Gate](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/DMux.hdl)
+* [16-bit Not Gate](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/Not16.hdl)
+* [16-bit And Gate](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/And16.hdl)
+* [16-bit Or Gate](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/Or16.hdl)
+* [16-bit MUX](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/Mux16.hdl)
+* [Or8Way Gate](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/Or8Way.hdl)
+* [16-bit/4-way MUX](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/Mux4Way16.hdl)
+* [16-bit/8-way MUX](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/Mux8Way16.hdl)
+* [DMUX4Way](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/DMux4Way.hdl)
+* [DMUX8Way](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project1/DMux8Way.hdl)
