@@ -76,3 +76,12 @@ The program runs an infinite loop that listens to the keyboard input. When a key
 <p>Rect:Draws a rectangle of width 16 pixels and length RAM[0] at the top left of the screen. </p>
 
 * [Computer Rect Output](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project5/ComputerRect.out)
+
+### Project 6: Developing an assembler, i.e. a capability to translate programs written in symbolic machine language into binary, executable code.
+
+<p> Converted the Following .asm files(Symbolic Machine language) into Binary Code.</p>
+
+* [Add asm](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project6/add/Add.asm) -- [Add binary Code](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project6/Add.hack)
+* [Max asm](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project6/max/Max.asm) -- [Max binary Code](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project6/Max.hack)
+* [Rect asm](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project6/rect/Rect.asm) -- [Rect binary Code](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project6/Rect.hack)
+* [Pong asm](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project6/pong/Pong.asm) -- [Pong binary Code](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project6/Pong.hack)
