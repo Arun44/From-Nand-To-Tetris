@@ -51,15 +51,15 @@ The program runs an infinite loop that listens to the keyboard input. When a key
 
 ### Project 5: Using the chipset built in projects 1-3 to build a Central Processing Unit (CPU) and a hardware platform capable of executing programs written in the machine language introduced in project 4:
 
-<p>Memory: This chip includes three chip-parts: RAM16K, Screen, and Keyboard.</p>
+<p><b>Memory</b>: This chip includes three chip-parts: RAM16K, Screen, and Keyboard.</p>
 
 * ### [Memory HDL](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project5/Memory.hdl) -- [Memory Output](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project5/Memory.out)
 
-<p>Central Processing Unit:This chip can be constructed according to the proposed CPU implementation, using the ALU and register chips built in Projects 2 and 3, respectively.</p>
+<p><b>Central Processing Unit</b>:This chip can be constructed according to the proposed CPU implementation, using the ALU and register chips built in Projects 2 and 3, respectively.</p>
 
 * ### [CPU HDL](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project5/CPU.hdl) -- [CPU Output](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project5/CPU.out)
 
-<p>Computer: The top-most Computer Chip.</p>
+<p><b>Computer: The top-most Computer Chip.</b></p>
 
 * ### [Computer HDL](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project5/Computer.hdl) 
 
