@@ -65,15 +65,15 @@ The program runs an infinite loop that listens to the keyboard input. When a key
 
 <p>Now, we test the following programs on the computer that we built above.</p>
 
-<p>ADD:Adds up the two constants 2 and 3 and writes the result in RAM[0].</p>
+<p>ADD: Adds up the two constants 2 and 3 and writes the result in RAM[0].</p>
 
 * [Computer Add Output](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project5/ComputerAdd.out)
 
-<p>MAX:Computes the maximum of RAM[0] and RAM[1] and writes the result in RAM[2].</p>
+<p>MAX: Computes the maximum of RAM[0] and RAM[1] and writes the result in RAM[2].</p>
 
 * [Computer Max Output](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project5/ComputerMax.out)
 
-<p>Rect:Draws a rectangle of width 16 pixels and length RAM[0] at the top left of the screen. </p>
+<p>Rect: Draws a rectangle of width 16 pixels and length RAM[0] at the top left of the screen. </p>
 
 * [Computer Rect Output](https://github.com/Arun44/From-Nand-To-Tetris/blob/master/src/Part%201/Project5/ComputerRect.out)
 
